@@ -1,4 +1,6 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
+## NAME : DIVYA LAKSHMI M
+## REFERENCE NUMBER : 24900082
 
 ## AIM
 
@@ -42,6 +44,9 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+
+![ex1 1 ss](https://github.com/user-attachments/assets/87c0a23e-6a7a-4500-aaa8-4f4b9c68b8a8)
+
 
 
 ## RESULT
